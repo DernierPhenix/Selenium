@@ -1,0 +1,1 @@
+pytest NOM_FIchier_Test --html=Nom_Du_Rapport.html --self-contained-html
